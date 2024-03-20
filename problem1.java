@@ -48,3 +48,12 @@ public class quicksort {
         scanner.close();
     }
 }
+
+
+
+OUTPUT:
+1.  total elements in an array: 7 
+    Array elements:
+    9 6 11 4 2 8 3
+    Ith order statistic: 5
+    5th order statistic is8
